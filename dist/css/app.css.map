@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,gBAAgB;EAChB,0BAA0B,EAE3B","file":"app.css","sourcesContent":["h1{\n  color: green;\n  font-size: 30px;\n  background-color: #0000AA;\n\n}"],"sourceRoot":"/source/"}

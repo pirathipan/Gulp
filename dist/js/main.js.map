@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["console","log","toto"],"mappings":"AAAAA,QAAQC,IAAI,QAEZD,QAAQC,IAAI,QAEZ,IAAIC","file":"main.js","sourcesContent":["console.log('toto');\n\nconsole.log('salut');\n\nvar toto ;"],"sourceRoot":"/source/"}
